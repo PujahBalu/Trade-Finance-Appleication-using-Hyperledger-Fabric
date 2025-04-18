@@ -115,8 +115,17 @@ Using **Hyperledger Fabric**, trade finance applications can be transformed into
 
 ---
 
+
 ## 📚 References
 
 - Ethereum & Hyperledger Documentation
 - Kyoto Protocol: Carbon Trading Financial Reports
 - Global Blockchain Standards (Linux Foundation)
+
+---
+
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE) © 2024 Pujah Balasubramaniam.
+
+---
